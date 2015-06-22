@@ -1,0 +1,42 @@
+C:\Users\Angel\Desktop\11_2015.05.14.DrinksMachine\DrinksMachine\bin\Debug\DrinksMachine.exe.config
+C:\Users\Angel\Desktop\11_2015.05.14.DrinksMachine\DrinksMachine\obj\Debug\DrinksMachine.exe
+C:\Users\Angel\Desktop\11_2015.05.14.DrinksMachine\DrinksMachine\obj\Debug\DrinksMachine.pdb
+C:\Users\Angel\Desktop\11_2015.05.14.DrinksMachine\DrinksMachine\bin\Debug\DrinksMachine.exe
+C:\Users\Angel\Desktop\11_2015.05.14.DrinksMachine\DrinksMachine\bin\Debug\DrinksMachine.pdb
+C:\Users\Angel\Desktop\11_2015.05.14.DrinksMachine\DrinksMachine\obj\Debug\DrinksMachine.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Desktop\12_2015.05.16.DrinksMachine\DrinksMachine\bin\Debug\DrinksMachine.exe.config
+C:\Users\Angel\Desktop\12_2015.05.16.DrinksMachine\DrinksMachine\obj\Debug\DrinksMachine.exe
+C:\Users\Angel\Desktop\12_2015.05.16.DrinksMachine\DrinksMachine\obj\Debug\DrinksMachine.pdb
+C:\Users\Angel\Desktop\12_2015.05.16.DrinksMachine\DrinksMachine\bin\Debug\DrinksMachine.exe
+C:\Users\Angel\Desktop\12_2015.05.16.DrinksMachine\DrinksMachine\bin\Debug\DrinksMachine.pdb
+C:\Users\Angel\Desktop\12_2015.05.16.DrinksMachine\DrinksMachine\obj\Debug\DrinksMachine.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Desktop\12_2015.05.17.DrinksMachine\DrinksMachine\bin\Debug\DrinksMachine.exe.config
+C:\Users\Angel\Desktop\12_2015.05.17.DrinksMachine\DrinksMachine\obj\Debug\DrinksMachine.exe
+C:\Users\Angel\Desktop\12_2015.05.17.DrinksMachine\DrinksMachine\obj\Debug\DrinksMachine.pdb
+C:\Users\Angel\Desktop\12_2015.05.17.DrinksMachine\DrinksMachine\bin\Debug\DrinksMachine.exe
+C:\Users\Angel\Desktop\12_2015.05.17.DrinksMachine\DrinksMachine\bin\Debug\DrinksMachine.pdb
+C:\Users\Angel\Desktop\12_2015.05.17.DrinksMachine\DrinksMachine\obj\Debug\DrinksMachine.csprojResolveAssemblyReference.cache
+C:\Users\Alfa\Documents\Visual Studio 2013\Projects\C#\C#-Konsolenprojekte\Drinksmachine\12_2015.05.17.DrinksMachine\DrinksMachine\bin\Debug\DrinksMachine.exe.config
+C:\Users\Alfa\Documents\Visual Studio 2013\Projects\C#\C#-Konsolenprojekte\Drinksmachine\12_2015.05.17.DrinksMachine\DrinksMachine\obj\Debug\DrinksMachine.exe
+C:\Users\Alfa\Documents\Visual Studio 2013\Projects\C#\C#-Konsolenprojekte\Drinksmachine\12_2015.05.17.DrinksMachine\DrinksMachine\obj\Debug\DrinksMachine.pdb
+C:\Users\Alfa\Documents\Visual Studio 2013\Projects\C#\C#-Konsolenprojekte\Drinksmachine\12_2015.05.17.DrinksMachine\DrinksMachine\obj\Debug\DrinksMachine.csprojResolveAssemblyReference.cache
+C:\Users\Alfa\Documents\Visual Studio 2013\Projects\C#\C#-Konsolenprojekte\Drinksmachine\12_2015.05.17.DrinksMachine\DrinksMachine\bin\Debug\DrinksMachine.exe
+C:\Users\Alfa\Documents\Visual Studio 2013\Projects\C#\C#-Konsolenprojekte\Drinksmachine\12_2015.05.17.DrinksMachine\DrinksMachine\bin\Debug\DrinksMachine.pdb
+C:\Users\Alfa\Documents\Visual Studio 2013\Projects\C#\C#-Konsolenprojekte\Drinksmachine\13_2015.05.18.DrinksMachine\DrinksMachine\bin\Debug\DrinksMachine.exe.config
+C:\Users\Alfa\Documents\Visual Studio 2013\Projects\C#\C#-Konsolenprojekte\Drinksmachine\13_2015.05.18.DrinksMachine\DrinksMachine\obj\Debug\DrinksMachine.exe
+C:\Users\Alfa\Documents\Visual Studio 2013\Projects\C#\C#-Konsolenprojekte\Drinksmachine\13_2015.05.18.DrinksMachine\DrinksMachine\obj\Debug\DrinksMachine.pdb
+C:\Users\Alfa\Documents\Visual Studio 2013\Projects\C#\C#-Konsolenprojekte\Drinksmachine\13_2015.05.18.DrinksMachine\DrinksMachine\bin\Debug\DrinksMachine.exe
+C:\Users\Alfa\Documents\Visual Studio 2013\Projects\C#\C#-Konsolenprojekte\Drinksmachine\13_2015.05.18.DrinksMachine\DrinksMachine\bin\Debug\DrinksMachine.pdb
+C:\Users\Alfa\Documents\Visual Studio 2013\Projects\C#\C#-Konsolenprojekte\Drinksmachine\13_2015.05.18.DrinksMachine\DrinksMachine\obj\Debug\DrinksMachine.csprojResolveAssemblyReference.cache
+C:\Users\Alfa\Documents\Visual Studio 2013\Projects\C#\C#-Konsolenprojekte\Drinksmachine\14_2015.05.28.DrinksMachine\DrinksMachine\bin\Debug\DrinksMachine.exe.config
+C:\Users\Alfa\Documents\Visual Studio 2013\Projects\C#\C#-Konsolenprojekte\Drinksmachine\14_2015.05.28.DrinksMachine\DrinksMachine\obj\Debug\DrinksMachine.exe
+C:\Users\Alfa\Documents\Visual Studio 2013\Projects\C#\C#-Konsolenprojekte\Drinksmachine\14_2015.05.28.DrinksMachine\DrinksMachine\obj\Debug\DrinksMachine.pdb
+C:\Users\Alfa\Documents\Visual Studio 2013\Projects\C#\C#-Konsolenprojekte\Drinksmachine\14_2015.05.28.DrinksMachine\DrinksMachine\obj\Debug\DrinksMachine.csprojResolveAssemblyReference.cache
+C:\Users\Alfa\Documents\Visual Studio 2013\Projects\C#\C#-Konsolenprojekte\Drinksmachine\14_2015.05.28.DrinksMachine\DrinksMachine\bin\Debug\DrinksMachine.exe
+C:\Users\Alfa\Documents\Visual Studio 2013\Projects\C#\C#-Konsolenprojekte\Drinksmachine\14_2015.05.28.DrinksMachine\DrinksMachine\bin\Debug\DrinksMachine.pdb
+C:\Users\Alfa\Documents\Visual Studio 2013\Projects\C#\C#-Konsolenprojekte\Drinksmachine\15_2015.05.29.DrinksMachine\DrinksMachine\bin\Debug\DrinksMachine.exe.config
+C:\Users\Alfa\Documents\Visual Studio 2013\Projects\C#\C#-Konsolenprojekte\Drinksmachine\15_2015.05.29.DrinksMachine\DrinksMachine\obj\Debug\DrinksMachine.exe
+C:\Users\Alfa\Documents\Visual Studio 2013\Projects\C#\C#-Konsolenprojekte\Drinksmachine\15_2015.05.29.DrinksMachine\DrinksMachine\obj\Debug\DrinksMachine.pdb
+C:\Users\Alfa\Documents\Visual Studio 2013\Projects\C#\C#-Konsolenprojekte\Drinksmachine\15_2015.05.29.DrinksMachine\DrinksMachine\bin\Debug\DrinksMachine.exe
+C:\Users\Alfa\Documents\Visual Studio 2013\Projects\C#\C#-Konsolenprojekte\Drinksmachine\15_2015.05.29.DrinksMachine\DrinksMachine\bin\Debug\DrinksMachine.pdb
+C:\Users\Alfa\Documents\Visual Studio 2013\Projects\C#\C#-Konsolenprojekte\Drinksmachine\15_2015.05.29.DrinksMachine\DrinksMachine\obj\Debug\DrinksMachine.csprojResolveAssemblyReference.cache
